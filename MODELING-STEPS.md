@@ -29,8 +29,8 @@ In this step, I created a 6 sketches: 4 Sketches on the Top Plane, Sketch on the
 - Sketch6: to set the position of grip Dimensions.
 
 ![Base Sketch](images/Skech6.png)
----
 
+---
 ## Step 2: Extrude the Base
 The base sketch was extruded to create the main body of the charger.
 - Extrude1: for Sketch1 with depth 30mm
@@ -39,18 +39,32 @@ The base sketch was extruded to create the main body of the charger.
 
 - Extrude2: for Sketch2 with depth 22mm and offset 26mm
 
-![Extrude Base](images/Extrude2.png)
+![Extrude Base](images/Extrude2(2).png)
+
+- Extrude3: for Sketch3 with depth 29mm and offset 24mm
+
+![Extrude Base](images/Extrude3(3).png)
+
+- Extrude4: for Sketch4 (Extrude remove) with depth 6.3mm and offset 30mm
+
+![Extrude Base](images/Extrude4.png)
+
+- Extrude5: for Sketch5 (Extrude remove) with depth 10mm and offset 25mm
+
+![Extrude Base](images/Extrude5.png)
+
+- Extrude6: for Sketch6 (Extrude remove) with depth 1.5mm and offset 23mm
+
+![Extrude Base](images/Extrude6.png)
+
+- Extrude7: for Sketch6 (Extrude remove) with depth 1.5mm and offset 23mm
+
+![Extrude Base](images/Extrude7.png)
 
 ---
-
-## Step 3: Charger Port Cut
-A sketch was created on the front face to cut the charger port opening.
-
-
-
----
-
-## Step 4: Final Details
+## Step 3: Final Details
 Additional fillets and small features were added to improve the design.
+- Fillet1: Fillet all edges for Extrude1 with radius 8mm
 
+![Extrude Base](images/Extrude71.png)
 
