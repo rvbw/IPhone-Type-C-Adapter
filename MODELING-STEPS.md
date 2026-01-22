@@ -35,7 +35,8 @@ In this step, I created a 6 sketches: 4 Sketches on the Top Plane, Sketch on the
 The base sketch was extruded to create the main body of the charger.
 - Extrude1: for Sketch1 with depth 30mm
 
-![Extrude Base](images/step2-extrude.png)
+![Extrude Base](images/Extrude1.png)
+
 ---
 
 ## Step 3: Charger Port Cut
