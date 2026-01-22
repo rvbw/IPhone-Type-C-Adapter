@@ -37,6 +37,10 @@ The base sketch was extruded to create the main body of the charger.
 
 ![Extrude Base](images/Extrude1.png)
 
+- Extrude2: for Sketch2 with depth 22mm and offset 26mm
+
+![Extrude Base](images/Extrude2.png)
+
 ---
 
 ## Step 3: Charger Port Cut
