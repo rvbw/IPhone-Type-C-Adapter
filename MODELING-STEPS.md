@@ -5,6 +5,7 @@ In this step, I created a 6 sketches: 4 Sketches on the Top Plane, Sketch on the
 
 ### The 4 Sketches:
 - Sketch1: to set the external charger body Dimensions.
+
 ![Base Sketch](images/Skech1.png)
 
 
