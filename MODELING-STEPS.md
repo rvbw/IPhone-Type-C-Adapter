@@ -3,22 +3,32 @@
 ## Step 1: Base Sketch
 In this step, I created a 6 sketches: 4 Sketches on the Top Plane, Sketch on the Front Plane and Sketch on the Right Plane to define the base shape of the charger.
 
-### The 4 Sketches:
+### On The Top Plane:
 - Sketch1: to set the external charger body Dimensions.
 
 ![Base Sketch](images/Skech1.png)
 
-- Sketch1: to set the negative and positive poles Dimensions.
+- Sketch2: to set the negative and positive poles Dimensions.
 
 ![Base Sketch](images/Skech2.png)
 
-- Sketch1: to set the ground pole Dimensions.
+- Sketch3: to set the ground pole Dimensions.
 
 ![Base Sketch](images/Skech3.png)
 
-- Sketch1: to set the position poles closure points Dimensions.
+- Sketch4: to set the position poles closure points Dimensions.
 
 ![Base Sketch](images/Skech4.png)
+
+### On The Front Plane:
+- Sketch5: to set the position of Type-C Port Dimensions.
+
+![Base Sketch](images/Skech5.png)
+
+### On The Right Plane:
+- Sketch6: to set the position of grip Dimensions.
+
+![Base Sketch](images/Skech6.png)
 ---
 
 ## Step 2: Extrude the Base
