@@ -68,3 +68,22 @@ Additional fillets and small features were added to improve the design.
 
 ![Extrude Base](images/Chamfer1.png)
 
+- Fillet1: all edges for Extrude1 with radius 8mm
+
+![Extrude Base](images/Fillet1.png)
+
+- Fillet2: for Extrude3 with radius 1.9mm
+
+![Extrude Base](images/Fillet2.png)
+
+- Fillet3: for Extrude4 with radius 4.3mm
+
+![Extrude Base](images/Fillet3.png)
+
+- Fillet4: all internal edges for Extrude6 with radius 4mm
+
+![Extrude Base](images/Fillet4.png)
+
+- Fillet5: all internal edges for Extrude7 with radius 4mm
+
+![Extrude Base](images/Fillet5.png)
