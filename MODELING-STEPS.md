@@ -64,7 +64,7 @@ The base sketch was extruded to create the main body of the charger.
 ---
 ## Step 3: Final Details
 Additional fillets and small features were added to improve the design.
-- Fillet1: Fillet all edges for Extrude1 with radius 8mm
+- Chamfer1: for Extrude2 with distance 2mm and angle 20deg
 
-![Extrude Base](images/Extrude71.png)
+![Extrude Base](images/Chamfer1.png)
 
