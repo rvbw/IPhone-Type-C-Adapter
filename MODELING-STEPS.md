@@ -15,6 +15,10 @@ In this step, I created a 6 sketches: 4 Sketches on the Top Plane, Sketch on the
 - Sketch1: to set the ground pole Dimensions.
 
 ![Base Sketch](images/Skech3.png)
+
+- Sketch1: to set the position poles closure points Dimensions.
+
+![Base Sketch](images/Skech4.png)
 ---
 
 ## Step 2: Extrude the Base
