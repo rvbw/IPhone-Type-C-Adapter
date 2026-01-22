@@ -10,7 +10,7 @@ In this step, I created a 6 sketches: 4 Sketches on the Top Plane, Sketch on the
 
 - Sketch1: to set negative and positive poles Dimensions.
 
-![Base Sketch](images/Skech1.png)
+![Base Sketch](images/Skech2.png)
 
 
 ---
