@@ -13,7 +13,7 @@ It was developed as my first project during my training period.
 - Export format: Parasolid (.x_t)
 
 ## Onshape Model
-https://cad.onshape.com/documents/f7d1de059be58881fd6eb5c7/w/84852bff5bb0ce6b1253fdca/e/c1fcdfa3abcaef5b3b2e52a1
+[View the Onshape model](https://cad.onshape.com/documents/f7d1de059be58881fd6eb5c7/w/84852bff5bb0ce6b1253fdca/e/c1fcdfa3abcaef5b3b2e52a1)
 
 ## Notes
 - Mechanical design only (no electronics)
